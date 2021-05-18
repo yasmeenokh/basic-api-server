@@ -4,7 +4,7 @@
 
 [The main heroku link](https://yasmeen-basic-api-server.herokuapp.com/)
 
-[Pull_Request](https://github.com/yasmeenokh/basic-api-server/pull/2s)
+[Pull_Request](https://github.com/yasmeenokh/basic-api-server/pull/3)
 
 [The Repo Link](https://github.com/yasmeenokh/basic-api-server)
 
