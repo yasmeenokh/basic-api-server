@@ -27,3 +27,4 @@ Visit http://localhost:PORT at the PORT number you've assigned in your .env
 4. https://yasmeen-basic-api-server.herokuapp.com/api/v1/clothes
 
 ## UML Diagram
+![uml](./images/lab03.jpg)
