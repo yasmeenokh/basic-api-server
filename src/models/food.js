@@ -19,6 +19,7 @@ class Food {
     } else {return this.foodDb;}
 
   }
+  
   update(id, obj){
     for (let i = 0; i <this.foodDb.length; i++){
       let record = this.foodDb[i];
